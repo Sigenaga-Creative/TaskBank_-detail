@@ -124,7 +124,7 @@ https://taskbank-navy.vercel.app/
 
  発表で工夫していた点などをメモに記載しています。よければ見てみてください！
 
-[https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=jxGeFS/](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=zzG0US&nav=eyJzSWQiOjI1NiwiY0lkIjoyNDUzODU4MTQzfQ)
+[[https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=jxGeFS/](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=zzG0US&nav=eyJzSWQiOjI1NiwiY0lkIjoyNDUzODU4MTQzfQ)](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=zztdYO&nav=eyJzSWQiOjI2MywiY0lkIjoxNzg4Njk5ODI4fQ)
 
 
 
