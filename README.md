@@ -71,8 +71,9 @@
 
 実装方法：(iOS 26.5.1での実装)
 
-1. QRコード、もしくは[URL](https://taskbank-navy.vercel.app/)からWeb上にアプリを開きます。<img width="200" height="200" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/533fb483-7c95-4ea4-9efc-6e6f930d5591" />
+<img width="200" height="200" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/533fb483-7c95-4ea4-9efc-6e6f930d5591" />
 
+1. QRコード、もしくは[URL](https://taskbank-navy.vercel.app/)からWeb上にアプリを開きます。
 2. その他ボタン(...)をクリックし、「共有」を押す。
 3. 少し下にスライドして、ホーム画面に追加を押す。
 4. 右上に表示される追加を押すと、ホーム画面に表示される。
