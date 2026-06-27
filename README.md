@@ -92,18 +92,6 @@ https://taskbank-navy.vercel.app/
 
 ---
 
-🚀 セットアップ（Google連携を使う場合）
-
-1. [Google Cloud Console](https://console.cloud.google.com/) でプロジェクトを作成
-2. 「Google Drive API」を有効化
-3. 「OAuth 2.0 クライアントID（ウェブアプリケーション）」を作成し、利用するURL（`http://localhost:5500`や本番URL）を承認済みオリジンに追加
-4. `googleAuth.js`内の`CLIENT_ID`を発行されたIDに書き換える
-5. Vercel等にデプロイ
-
-※ Google連携を使わなくても「ゲストモード」でそのまま動作します。
-
----
-
 📁 ファイル構成(詳細は非公開)
 
 ```
