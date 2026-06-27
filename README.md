@@ -122,7 +122,11 @@ https://taskbank-navy.vercel.app/
 
  <img width="1197" height="671" alt="スクリーンショット 2026-06-27 113329" src="https://github.com/user-attachments/assets/84952b19-e9c6-4a04-ac39-dcfbcd9d7471" />
 
-[ https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQCxrixdXGmISqsnXnO9ZziMAbuRnQNw9KSN4H0PN_ceAKI?e=Y4oIld/](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQCxrixdXGmISqsnXnO9ZziMAR-05XXokpQe0OzudqLE_io?e=uVa6Er&nav=eyJzSWQiOjI1NiwiY0lkIjozMjAzMjM0ODE0fQ)
+ 発表で工夫していた点などをノートにまとめています。よかったら見てみてください！
+
+https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=jxGeFS/
+
+
 
  
 
