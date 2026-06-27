@@ -1,3 +1,4 @@
+<img width="1237" height="632" alt="スクリーンショット 2026-06-27 101141" src="https://github.com/user-attachments/assets/ba606d7a-1983-42ec-872a-a4d14e03a737" />
 # TaskBank
 
 タスクをこなすと「お金」が貯まり、貯めたお金で「やりたいこと（Wish）」を叶える——
