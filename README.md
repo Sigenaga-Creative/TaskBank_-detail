@@ -125,6 +125,8 @@
 
 [発表で工夫していた点などをメモに記載しています。よければご覧ください！](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQC0600tJz_0S5oqvZo-EyGjAQ5uqBxcUM_pZzNPrFxcLNw?e=Odkblg&nav=eyJzSWQiOjI1NiwiY0lkIjoyNDUzODU4MTQzfQ)
 
+※ PC推奨
+
 
 
  
