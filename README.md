@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/a46f5999-677c-4a22-835a-7d16cdd5aac2" />
+<img width="1254" height="1254" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/118f6d65-3892-49ae-83d3-dfdf576d39f8" />
 # TaskBank
 
 タスクをこなすと「お金」が貯まり、貯めたお金で「やりたいこと（Wish）」を叶える——
@@ -71,7 +73,8 @@
 
 実装方法：(iOS 26.5.1での実装)
 
-<img width="200" height="200" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/533fb483-7c95-4ea4-9efc-6e6f930d5591" />
+<img width="200" height="200" alt="TaskBank_アプリQRコード" src="https://github.com/user-attachments/assets/c394050c-6b3e-444a-8aa6-9ae320f52a74" />
+
 
 1. QRコード、もしくは[URL](https://taskbank.dev)からWeb上にアプリを開きます。
 2. その他ボタン(...)をクリックし、「共有」を押します。
