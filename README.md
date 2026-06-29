@@ -124,7 +124,7 @@
 
  <img width="1197" height="671" alt="スクリーンショット 2026-06-27 113329" src="https://github.com/user-attachments/assets/84952b19-e9c6-4a04-ac39-dcfbcd9d7471" />
 
-[発表で工夫していた点などをメモに記載しています。よければご覧ください！](https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQDSbQaqqplCTafiMcodLiLOAfyLUaFA-6PZa4WfUWKWe5E?e=ZARr6S&nav=eyJzSWQiOjI1NiwiY0lkIjoyNDUzODU4MTQzfQ)(https://kobedenshi078-my.sharepoint.com/:p:/g/personal/kd1331363_kobedenshi078_onmicrosoft_com/IQDSbQaqqplCTafiMcodLiLOAfyLUaFA-6PZa4WfUWKWe5E?e=eapwi0&nav=eyJzSWQiOjI1NiwiY0lkIjoyNDUzODU4MTQzfQ)
+[発表で工夫していた点などをメモに記載しています。よければご覧ください！](https://bit.ly/4gcfrmu)
 
 ※  PC推奨
 
